@@ -14,7 +14,6 @@ module.exports = {
 				paths: ['src'],
 			},
 			typescript: {
-				project: [path.join(__dirname, 'tsconfig.json')],
 			},
 		},
 	},
